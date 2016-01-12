@@ -1,2 +1,8 @@
 # first-test-program
-A simple html page
+<!doctype html>
+<html>
+ <head></head>
+ <body>
+ This is a test.
+ </body>
+</html>
